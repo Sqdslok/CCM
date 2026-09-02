@@ -1,5 +1,9 @@
 h1 {
+<<<<<<< HEAD
   color: green;
+=======
+  color: #0000ff;
+>>>>>>> css_v2
   text-align: center;
   font-family: Arial, sans-serif;
 }
